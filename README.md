@@ -1,11 +1,8 @@
-# CodeAlpha Calculator 🚀
+# Web Calculator📱  
 
-> **Internship Task Submission** > This repository contains the source code for the Calculator task assigned during my Frontend Web Development Internship at **CodeAlpha**.  
+> **Project Overview**: A fully functional web-based calculator that performs fundamental arithmetic operations. The project focuses on clean logic architecture, maintaining operational states, and efficient DOM manipulation using event delegation.
 
 ---
-
-## 🎯 Project Overview
-A fully functional web-based calculator that performs fundamental arithmetic operations. The project focuses on clean logic architecture, maintaining operational states, and efficient DOM manipulation using event delegation.
 
 ## 🛠️ Tech Stack
 * **Markup:** HTML5
@@ -19,7 +16,7 @@ A fully functional web-based calculator that performs fundamental arithmetic ope
 * **Clean UI:** A minimalist and distraction-free user interface designed with CSS Flexbox.
 
 ## 🌐 Live Demo
-* **View the Live Project here:** [Calculator Project](https://sahilvish01.github.io/CodeAlpha_Calculator/)
+* **View the Live Project here:** [Web Calculator](https://sahilvish01.github.io/Web-Calculator/)
 
 ## 🚀 Setup & Installation (Local Development)
 
@@ -27,11 +24,11 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/sahilvish01/CodeAlpha_Calculator.git
+   git clone https://github.com/sahilvish01/Web-Calculator.git
    ```
 2. **Navigate to the directory:**
    ```
-   cd CodeAlpha_Calculator
+   cd Web-Calculator
    ```
 3. **Run the application:**
    Open the `index.html` file in your browser, or use the **Live Server** extension in VS Code for real-time updates.
@@ -39,7 +36,7 @@ To run this project locally on your machine, follow these steps:
 ## 📂 Folder Structure
 
 ```
-CodeAlpha_Calculator/
+Web-Calculator/
 ├── index.html       # Main application structure
 ├── style.css        # UI styling and layout configurations
 ├── script.js        # Core calculator logic and DOM manipulation
